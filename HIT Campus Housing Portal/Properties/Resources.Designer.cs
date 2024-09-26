@@ -153,6 +153,16 @@ namespace HIT_Campus_Housing_Portal.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pass_hide {
+            get {
+                object obj = ResourceManager.GetObject("pass_hide", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pass_show {
             get {
                 object obj = ResourceManager.GetObject("pass_show", resourceCulture);
