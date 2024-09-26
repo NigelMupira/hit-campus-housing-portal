@@ -1,0 +1,18 @@
+Q: Develop an application for the process of applying for HIT on-campus accommodation
+
+
+HIT Campus Housing Portal
+
+home
+ login
+student:
+ registration- create your HIT CHP account
+ dashboard- view application status, rooms left
+  status- view request status, total, boys, girls, hostel rooms left
+  application- apply for res accomodation
+  profile- view personal details, edit details(x)
+  account-
+admin:
+ dashboard- view requests, approved requests, rooms left
+  students- list of registered students
+  account- view account details, change password, delete account
