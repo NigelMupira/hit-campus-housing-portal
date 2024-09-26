@@ -96,6 +96,7 @@
             this.btnCancel.TabIndex = 29;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // btnReset
             // 
@@ -109,6 +110,7 @@
             this.btnReset.TabIndex = 28;
             this.btnReset.Text = "Reset";
             this.btnReset.UseVisualStyleBackColor = false;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // btnNext
             // 
@@ -123,6 +125,7 @@
             this.btnNext.TabIndex = 27;
             this.btnNext.Text = "Next";
             this.btnNext.UseVisualStyleBackColor = false;
+            this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
             // 
             // groupContact
             // 
@@ -152,7 +155,6 @@
             this.txtAddress.Name = "txtAddress";
             this.txtAddress.Size = new System.Drawing.Size(200, 27);
             this.txtAddress.TabIndex = 21;
-            this.txtAddress.Text = "1234 27th Close Sunningdale";
             // 
             // txtHITmail
             // 
@@ -163,7 +165,6 @@
             this.txtHITmail.Name = "txtHITmail";
             this.txtHITmail.Size = new System.Drawing.Size(200, 27);
             this.txtHITmail.TabIndex = 20;
-            this.txtHITmail.Text = "h230762x@hit.ac.zw";
             // 
             // txtEmail
             // 
@@ -174,7 +175,6 @@
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(200, 27);
             this.txtEmail.TabIndex = 19;
-            this.txtEmail.Text = "kapfidzetadiwanashe@gmail.com";
             // 
             // lblAddress
             // 
@@ -229,7 +229,6 @@
             this.txtPhone.Name = "txtPhone";
             this.txtPhone.Size = new System.Drawing.Size(200, 27);
             this.txtPhone.TabIndex = 11;
-            this.txtPhone.Text = "263787612521";
             // 
             // groupParent
             // 
@@ -308,7 +307,6 @@
             this.txtGEmail.Name = "txtGEmail";
             this.txtGEmail.Size = new System.Drawing.Size(200, 27);
             this.txtGEmail.TabIndex = 16;
-            this.txtGEmail.Text = "memokapfi@gmail.com";
             // 
             // lblGPhone
             // 
@@ -330,7 +328,6 @@
             this.txtGPhone.Name = "txtGPhone";
             this.txtGPhone.Size = new System.Drawing.Size(200, 27);
             this.txtGPhone.TabIndex = 14;
-            this.txtGPhone.Text = "263772297512";
             // 
             // lblRelation
             // 
@@ -374,7 +371,6 @@
             this.txtGSurname.Name = "txtGSurname";
             this.txtGSurname.Size = new System.Drawing.Size(200, 27);
             this.txtGSurname.TabIndex = 11;
-            this.txtGSurname.Text = "Kapfidze";
             // 
             // txtGName
             // 
@@ -385,7 +381,6 @@
             this.txtGName.Name = "txtGName";
             this.txtGName.Size = new System.Drawing.Size(200, 27);
             this.txtGName.TabIndex = 11;
-            this.txtGName.Text = "Memory";
             // 
             // groupStudent
             // 
@@ -485,6 +480,7 @@
             this.cbDepartment.Name = "cbDepartment";
             this.cbDepartment.Size = new System.Drawing.Size(200, 28);
             this.cbDepartment.TabIndex = 13;
+            this.cbDepartment.SelectedIndexChanged += new System.EventHandler(this.cbDepartment_SelectedIndexChanged);
             // 
             // txtRegNum
             // 
@@ -495,7 +491,6 @@
             this.txtRegNum.Name = "txtRegNum";
             this.txtRegNum.Size = new System.Drawing.Size(200, 27);
             this.txtRegNum.TabIndex = 11;
-            this.txtRegNum.Text = "H230762X";
             // 
             // groupPersonal
             // 
@@ -562,6 +557,7 @@
             this.dateDOB.Name = "dateDOB";
             this.dateDOB.Size = new System.Drawing.Size(200, 27);
             this.dateDOB.TabIndex = 5;
+            this.dateDOB.Value = new System.DateTime(2024, 9, 26, 18, 41, 37, 0);
             // 
             // lblSurname
             // 
@@ -583,7 +579,6 @@
             this.txtNatID.Name = "txtNatID";
             this.txtNatID.Size = new System.Drawing.Size(200, 27);
             this.txtNatID.TabIndex = 3;
-            this.txtNatID.Text = "63-2382140Q32";
             // 
             // txtSurname
             // 
@@ -594,7 +589,6 @@
             this.txtSurname.Name = "txtSurname";
             this.txtSurname.Size = new System.Drawing.Size(200, 27);
             this.txtSurname.TabIndex = 2;
-            this.txtSurname.Text = "Kapfidze";
             // 
             // txtName
             // 
@@ -605,7 +599,6 @@
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(200, 27);
             this.txtName.TabIndex = 1;
-            this.txtName.Text = "Tadiwanashe";
             // 
             // lblName
             // 
@@ -673,6 +666,7 @@
             this.Name = "SignUp";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Register";
+            this.Load += new System.EventHandler(this.SignUp_Load);
             this.groupContact.ResumeLayout(false);
             this.groupContact.PerformLayout();
             this.groupParent.ResumeLayout(false);
