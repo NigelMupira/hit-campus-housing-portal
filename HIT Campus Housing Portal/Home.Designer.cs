@@ -29,36 +29,37 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label3 = new System.Windows.Forms.Label();
+            this.picCHPLogo = new System.Windows.Forms.PictureBox();
+            this.lblHome = new System.Windows.Forms.Label();
             this.btnExit = new System.Windows.Forms.Button();
             this.btnSignUp = new System.Windows.Forms.Button();
             this.btnSignIn = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCHPLogo)).BeginInit();
             this.SuspendLayout();
             // 
-            // pictureBox1
+            // picCHPLogo
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.chp_logo;
-            this.pictureBox1.Location = new System.Drawing.Point(441, -1);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(302, 222);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 18;
-            this.pictureBox1.TabStop = false;
+            this.picCHPLogo.BackColor = System.Drawing.Color.Transparent;
+            this.picCHPLogo.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.chp_logo;
+            this.picCHPLogo.Location = new System.Drawing.Point(441, -1);
+            this.picCHPLogo.Name = "picCHPLogo";
+            this.picCHPLogo.Size = new System.Drawing.Size(302, 222);
+            this.picCHPLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picCHPLogo.TabIndex = 18;
+            this.picCHPLogo.TabStop = false;
             // 
-            // label3
+            // lblHome
             // 
-            this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.Gold;
-            this.label3.Location = new System.Drawing.Point(367, 237);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(450, 74);
-            this.label3.TabIndex = 17;
-            this.label3.Text = "WELCOME TO THE HIT CHP APP!!!\r\nWHERE HOME MEETS SCHOOL.";
+            this.lblHome.AutoSize = true;
+            this.lblHome.BackColor = System.Drawing.Color.Transparent;
+            this.lblHome.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHome.ForeColor = System.Drawing.Color.Gold;
+            this.lblHome.Location = new System.Drawing.Point(367, 237);
+            this.lblHome.Name = "lblHome";
+            this.lblHome.Size = new System.Drawing.Size(450, 74);
+            this.lblHome.TabIndex = 17;
+            this.lblHome.Text = "WELCOME TO THE HIT CHP APP!!!\r\nWHERE HOME MEETS SCHOOL.";
+            this.lblHome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnExit
             // 
@@ -113,8 +114,8 @@
             this.BackgroundImage = global::HIT_Campus_Housing_Portal.Properties.Resources.home_bg;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1184, 681);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.picCHPLogo);
+            this.Controls.Add(this.lblHome);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnSignUp);
             this.Controls.Add(this.btnSignIn);
@@ -125,7 +126,7 @@
             this.Name = "Home";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = " HIT Campus Housing Portal";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picCHPLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -133,8 +134,8 @@
 
         #endregion
 
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.PictureBox picCHPLogo;
+        private System.Windows.Forms.Label lblHome;
         private System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.Button btnSignUp;
         private System.Windows.Forms.Button btnSignIn;
