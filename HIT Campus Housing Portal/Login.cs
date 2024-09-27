@@ -55,7 +55,7 @@ namespace HIT_Campus_Housing_Portal
         {
             string username = txtUsername.Text;
             string password = txtPassword.Text;
-
+                                                
             if (username == "user" || password == "123") // Dummy student credentials
             {
                 // Open student dashboard

@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -12,6 +13,8 @@ namespace HIT_Campus_Housing_Portal
 {
     public partial class SignUp : Form
     {
+        public string name { get { return txtName.Text; } } // Get the name of the user
+
         public SignUp()
         {
             InitializeComponent();
@@ -36,7 +39,6 @@ namespace HIT_Campus_Housing_Portal
             // Get the gender - if rbMale is checked then gender = male, else gender = female:
             string gender = radioMale.Checked ? "M" : "F";
             string nationalID = txtNatID.Text; // Get the national ID from the input field
-            string regNumber = txtRegNum.Text; // Get the registration number from the input field
             string part = cbPart.SelectedItem != null ? cbPart.SelectedItem.ToString() : string.Empty;
             // Get the school - if cbDepartment.SelectedItem is not null then school = selected option, else school = empty string:
             string school = cbDepartment.SelectedItem != null ? cbDepartment.SelectedItem.ToString() : string.Empty;
@@ -54,7 +56,9 @@ namespace HIT_Campus_Housing_Portal
             string guardianEmail = txtGEmail.Text;// Get the guardian's email from the input field
             } */
 
-            Password password = new Password();
+            string regNumber = txtRegNum.Text; // Get the registration number from the input field
+
+            Password password = new Password(regNumber);
             password.Show(); // Show the password form
             this.Hide(); // Hide the current form
         }

@@ -59,6 +59,7 @@
             this.btnBack.TabIndex = 34;
             this.btnBack.Text = "Back";
             this.btnBack.UseVisualStyleBackColor = false;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
             // lblUsername
             // 
@@ -93,6 +94,7 @@
             this.btnCreate.TabIndex = 31;
             this.btnCreate.Text = "Create Account";
             this.btnCreate.UseVisualStyleBackColor = false;
+            this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
             // 
             // btnCancel
             // 
@@ -106,6 +108,7 @@
             this.btnCancel.TabIndex = 30;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // groupCurrent
             // 
@@ -133,6 +136,7 @@
             this.btnForgot.TabIndex = 8;
             this.btnForgot.Text = "Forgot Password?";
             this.btnForgot.UseVisualStyleBackColor = true;
+            this.btnForgot.Click += new System.EventHandler(this.btnForgot_Click);
             // 
             // txtOldPass
             // 
