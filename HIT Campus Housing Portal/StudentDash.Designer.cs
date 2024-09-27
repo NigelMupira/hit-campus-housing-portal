@@ -32,25 +32,24 @@
             this.panelDisplay = new System.Windows.Forms.Panel();
             this.panelMenuStrip = new System.Windows.Forms.Panel();
             this.btnClose = new System.Windows.Forms.Button();
-            this.btnLogout = new System.Windows.Forms.Button();
-            this.btnSettings = new System.Windows.Forms.Button();
-            this.btnAccount = new System.Windows.Forms.Button();
-            this.btnStatus = new System.Windows.Forms.Button();
-            this.btnApply = new System.Windows.Forms.Button();
-            this.btnDashboard = new System.Windows.Forms.Button();
-            this.panelTop = new System.Windows.Forms.Panel();
-            this.lblDashboard = new System.Windows.Forms.Label();
             this.picExit = new System.Windows.Forms.PictureBox();
+            this.btnLogout = new System.Windows.Forms.Button();
             this.picLogout = new System.Windows.Forms.PictureBox();
+            this.btnSettings = new System.Windows.Forms.Button();
             this.picSettings = new System.Windows.Forms.PictureBox();
+            this.btnAccount = new System.Windows.Forms.Button();
             this.picAccount = new System.Windows.Forms.PictureBox();
+            this.btnStatus = new System.Windows.Forms.Button();
             this.picStatus = new System.Windows.Forms.PictureBox();
+            this.btnApply = new System.Windows.Forms.Button();
             this.picApply = new System.Windows.Forms.PictureBox();
+            this.btnDashboard = new System.Windows.Forms.Button();
             this.picDashboard = new System.Windows.Forms.PictureBox();
+            this.panelTop = new System.Windows.Forms.Panel();
             this.btnNotify = new System.Windows.Forms.Button();
             this.btnProfile = new System.Windows.Forms.Button();
+            this.lblDashboard = new System.Windows.Forms.Label();
             this.panelMenuStrip.SuspendLayout();
-            this.panelTop.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picExit)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLogout)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picSettings)).BeginInit();
@@ -58,6 +57,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.picStatus)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picApply)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picDashboard)).BeginInit();
+            this.panelTop.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelDisplay
@@ -106,6 +106,20 @@
             this.btnClose.Text = "Exit";
             this.btnClose.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnClose.UseVisualStyleBackColor = false;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
+            // picExit
+            // 
+            this.picExit.BackColor = System.Drawing.Color.Transparent;
+            this.picExit.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.exit;
+            this.picExit.InitialImage = ((System.Drawing.Image)(resources.GetObject("picExit.InitialImage")));
+            this.picExit.Location = new System.Drawing.Point(17, 320);
+            this.picExit.Name = "picExit";
+            this.picExit.Size = new System.Drawing.Size(30, 30);
+            this.picExit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picExit.TabIndex = 14;
+            this.picExit.TabStop = false;
+            this.picExit.UseWaitCursor = true;
             // 
             // btnLogout
             // 
@@ -121,6 +135,20 @@
             this.btnLogout.Text = "Logout";
             this.btnLogout.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnLogout.UseVisualStyleBackColor = false;
+            this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
+            // 
+            // picLogout
+            // 
+            this.picLogout.BackColor = System.Drawing.Color.Transparent;
+            this.picLogout.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.logout;
+            this.picLogout.InitialImage = ((System.Drawing.Image)(resources.GetObject("picLogout.InitialImage")));
+            this.picLogout.Location = new System.Drawing.Point(17, 270);
+            this.picLogout.Name = "picLogout";
+            this.picLogout.Size = new System.Drawing.Size(30, 30);
+            this.picLogout.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picLogout.TabIndex = 12;
+            this.picLogout.TabStop = false;
+            this.picLogout.UseWaitCursor = true;
             // 
             // btnSettings
             // 
@@ -136,6 +164,20 @@
             this.btnSettings.Text = "Settings";
             this.btnSettings.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSettings.UseVisualStyleBackColor = false;
+            this.btnSettings.Click += new System.EventHandler(this.btnSettings_Click);
+            // 
+            // picSettings
+            // 
+            this.picSettings.BackColor = System.Drawing.Color.Transparent;
+            this.picSettings.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.settings;
+            this.picSettings.InitialImage = ((System.Drawing.Image)(resources.GetObject("picSettings.InitialImage")));
+            this.picSettings.Location = new System.Drawing.Point(17, 220);
+            this.picSettings.Name = "picSettings";
+            this.picSettings.Size = new System.Drawing.Size(30, 30);
+            this.picSettings.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picSettings.TabIndex = 10;
+            this.picSettings.TabStop = false;
+            this.picSettings.UseWaitCursor = true;
             // 
             // btnAccount
             // 
@@ -151,6 +193,20 @@
             this.btnAccount.Text = "Account";
             this.btnAccount.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnAccount.UseVisualStyleBackColor = false;
+            this.btnAccount.Click += new System.EventHandler(this.btnAccount_Click);
+            // 
+            // picAccount
+            // 
+            this.picAccount.BackColor = System.Drawing.Color.Transparent;
+            this.picAccount.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.user2;
+            this.picAccount.InitialImage = ((System.Drawing.Image)(resources.GetObject("picAccount.InitialImage")));
+            this.picAccount.Location = new System.Drawing.Point(17, 170);
+            this.picAccount.Name = "picAccount";
+            this.picAccount.Size = new System.Drawing.Size(30, 30);
+            this.picAccount.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picAccount.TabIndex = 6;
+            this.picAccount.TabStop = false;
+            this.picAccount.UseWaitCursor = true;
             // 
             // btnStatus
             // 
@@ -166,6 +222,19 @@
             this.btnStatus.Text = "Status";
             this.btnStatus.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnStatus.UseVisualStyleBackColor = false;
+            this.btnStatus.Click += new System.EventHandler(this.btnStatus_Click);
+            // 
+            // picStatus
+            // 
+            this.picStatus.BackColor = System.Drawing.Color.Transparent;
+            this.picStatus.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.status;
+            this.picStatus.InitialImage = ((System.Drawing.Image)(resources.GetObject("picStatus.InitialImage")));
+            this.picStatus.Location = new System.Drawing.Point(17, 120);
+            this.picStatus.Name = "picStatus";
+            this.picStatus.Size = new System.Drawing.Size(30, 30);
+            this.picStatus.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picStatus.TabIndex = 4;
+            this.picStatus.TabStop = false;
             // 
             // btnApply
             // 
@@ -181,6 +250,19 @@
             this.btnApply.Text = "Apply";
             this.btnApply.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnApply.UseVisualStyleBackColor = false;
+            this.btnApply.Click += new System.EventHandler(this.btnApply_Click);
+            // 
+            // picApply
+            // 
+            this.picApply.BackColor = System.Drawing.Color.Transparent;
+            this.picApply.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.apply;
+            this.picApply.InitialImage = ((System.Drawing.Image)(resources.GetObject("picApply.InitialImage")));
+            this.picApply.Location = new System.Drawing.Point(17, 70);
+            this.picApply.Name = "picApply";
+            this.picApply.Size = new System.Drawing.Size(30, 30);
+            this.picApply.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picApply.TabIndex = 2;
+            this.picApply.TabStop = false;
             // 
             // btnDashboard
             // 
@@ -196,105 +278,7 @@
             this.btnDashboard.Text = "Dashboard";
             this.btnDashboard.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnDashboard.UseVisualStyleBackColor = false;
-            // 
-            // panelTop
-            // 
-            this.panelTop.BackColor = System.Drawing.Color.RoyalBlue;
-            this.panelTop.Controls.Add(this.btnNotify);
-            this.panelTop.Controls.Add(this.btnProfile);
-            this.panelTop.Controls.Add(this.lblDashboard);
-            this.panelTop.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelTop.Location = new System.Drawing.Point(0, 0);
-            this.panelTop.Name = "panelTop";
-            this.panelTop.Size = new System.Drawing.Size(1200, 50);
-            this.panelTop.TabIndex = 4;
-            // 
-            // lblDashboard
-            // 
-            this.lblDashboard.AutoSize = true;
-            this.lblDashboard.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDashboard.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.lblDashboard.Location = new System.Drawing.Point(18, 15);
-            this.lblDashboard.Name = "lblDashboard";
-            this.lblDashboard.Size = new System.Drawing.Size(157, 21);
-            this.lblDashboard.TabIndex = 3;
-            this.lblDashboard.Text = "Student Dashboard";
-            // 
-            // picExit
-            // 
-            this.picExit.BackColor = System.Drawing.Color.Transparent;
-            this.picExit.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.exit;
-            this.picExit.InitialImage = ((System.Drawing.Image)(resources.GetObject("picExit.InitialImage")));
-            this.picExit.Location = new System.Drawing.Point(17, 320);
-            this.picExit.Name = "picExit";
-            this.picExit.Size = new System.Drawing.Size(30, 30);
-            this.picExit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picExit.TabIndex = 14;
-            this.picExit.TabStop = false;
-            this.picExit.UseWaitCursor = true;
-            // 
-            // picLogout
-            // 
-            this.picLogout.BackColor = System.Drawing.Color.Transparent;
-            this.picLogout.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.logout;
-            this.picLogout.InitialImage = ((System.Drawing.Image)(resources.GetObject("picLogout.InitialImage")));
-            this.picLogout.Location = new System.Drawing.Point(17, 270);
-            this.picLogout.Name = "picLogout";
-            this.picLogout.Size = new System.Drawing.Size(30, 30);
-            this.picLogout.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picLogout.TabIndex = 12;
-            this.picLogout.TabStop = false;
-            this.picLogout.UseWaitCursor = true;
-            // 
-            // picSettings
-            // 
-            this.picSettings.BackColor = System.Drawing.Color.Transparent;
-            this.picSettings.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.settings;
-            this.picSettings.InitialImage = ((System.Drawing.Image)(resources.GetObject("picSettings.InitialImage")));
-            this.picSettings.Location = new System.Drawing.Point(17, 220);
-            this.picSettings.Name = "picSettings";
-            this.picSettings.Size = new System.Drawing.Size(30, 30);
-            this.picSettings.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picSettings.TabIndex = 10;
-            this.picSettings.TabStop = false;
-            this.picSettings.UseWaitCursor = true;
-            // 
-            // picAccount
-            // 
-            this.picAccount.BackColor = System.Drawing.Color.Transparent;
-            this.picAccount.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.user2;
-            this.picAccount.InitialImage = ((System.Drawing.Image)(resources.GetObject("picAccount.InitialImage")));
-            this.picAccount.Location = new System.Drawing.Point(17, 170);
-            this.picAccount.Name = "picAccount";
-            this.picAccount.Size = new System.Drawing.Size(30, 30);
-            this.picAccount.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picAccount.TabIndex = 6;
-            this.picAccount.TabStop = false;
-            this.picAccount.UseWaitCursor = true;
-            // 
-            // picStatus
-            // 
-            this.picStatus.BackColor = System.Drawing.Color.Transparent;
-            this.picStatus.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.status;
-            this.picStatus.InitialImage = ((System.Drawing.Image)(resources.GetObject("picStatus.InitialImage")));
-            this.picStatus.Location = new System.Drawing.Point(17, 120);
-            this.picStatus.Name = "picStatus";
-            this.picStatus.Size = new System.Drawing.Size(30, 30);
-            this.picStatus.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picStatus.TabIndex = 4;
-            this.picStatus.TabStop = false;
-            // 
-            // picApply
-            // 
-            this.picApply.BackColor = System.Drawing.Color.Transparent;
-            this.picApply.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.apply;
-            this.picApply.InitialImage = ((System.Drawing.Image)(resources.GetObject("picApply.InitialImage")));
-            this.picApply.Location = new System.Drawing.Point(17, 70);
-            this.picApply.Name = "picApply";
-            this.picApply.Size = new System.Drawing.Size(30, 30);
-            this.picApply.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picApply.TabIndex = 2;
-            this.picApply.TabStop = false;
+            this.btnDashboard.Click += new System.EventHandler(this.btnDashboard_Click);
             // 
             // picDashboard
             // 
@@ -308,6 +292,18 @@
             this.picDashboard.TabIndex = 0;
             this.picDashboard.TabStop = false;
             // 
+            // panelTop
+            // 
+            this.panelTop.BackColor = System.Drawing.Color.RoyalBlue;
+            this.panelTop.Controls.Add(this.btnNotify);
+            this.panelTop.Controls.Add(this.btnProfile);
+            this.panelTop.Controls.Add(this.lblDashboard);
+            this.panelTop.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelTop.Location = new System.Drawing.Point(0, 0);
+            this.panelTop.Name = "panelTop";
+            this.panelTop.Size = new System.Drawing.Size(1200, 50);
+            this.panelTop.TabIndex = 4;
+            // 
             // btnNotify
             // 
             this.btnNotify.BackColor = System.Drawing.Color.Transparent;
@@ -320,6 +316,7 @@
             this.btnNotify.Size = new System.Drawing.Size(35, 35);
             this.btnNotify.TabIndex = 6;
             this.btnNotify.UseVisualStyleBackColor = false;
+            this.btnNotify.Click += new System.EventHandler(this.btnNotify_Click);
             // 
             // btnProfile
             // 
@@ -333,6 +330,18 @@
             this.btnProfile.Size = new System.Drawing.Size(35, 35);
             this.btnProfile.TabIndex = 5;
             this.btnProfile.UseVisualStyleBackColor = false;
+            this.btnProfile.Click += new System.EventHandler(this.btnProfile_Click);
+            // 
+            // lblDashboard
+            // 
+            this.lblDashboard.AutoSize = true;
+            this.lblDashboard.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDashboard.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.lblDashboard.Location = new System.Drawing.Point(18, 15);
+            this.lblDashboard.Name = "lblDashboard";
+            this.lblDashboard.Size = new System.Drawing.Size(157, 21);
+            this.lblDashboard.TabIndex = 3;
+            this.lblDashboard.Text = "Student Dashboard";
             // 
             // StudentDash
             // 
@@ -348,8 +357,6 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Dashboard";
             this.panelMenuStrip.ResumeLayout(false);
-            this.panelTop.ResumeLayout(false);
-            this.panelTop.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picExit)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLogout)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picSettings)).EndInit();
@@ -357,6 +364,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.picStatus)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picApply)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picDashboard)).EndInit();
+            this.panelTop.ResumeLayout(false);
+            this.panelTop.PerformLayout();
             this.ResumeLayout(false);
 
         }
