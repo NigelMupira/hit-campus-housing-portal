@@ -144,7 +144,7 @@
             // 
             // btnShow
             // 
-            this.btnShow.BackgroundImage = global::HIT_Campus_Housing_Portal.Properties.Resources.pass_show;
+            this.btnShow.BackgroundImage = global::HIT_Campus_Housing_Portal.Properties.Resources.appear;
             this.btnShow.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnShow.FlatAppearance.BorderSize = 0;
             this.btnShow.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
