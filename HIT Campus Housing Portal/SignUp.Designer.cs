@@ -46,14 +46,14 @@
             this.radioParent = new System.Windows.Forms.RadioButton();
             this.radioGuardian = new System.Windows.Forms.RadioButton();
             this.lblGEmail = new System.Windows.Forms.Label();
-            this.txtGEmail = new System.Windows.Forms.TextBox();
+            this.txtNoKEmail = new System.Windows.Forms.TextBox();
             this.lblGPhone = new System.Windows.Forms.Label();
-            this.txtGPhone = new System.Windows.Forms.TextBox();
+            this.txtNoKPhone = new System.Windows.Forms.TextBox();
             this.lblRelation = new System.Windows.Forms.Label();
             this.lblGSurname = new System.Windows.Forms.Label();
             this.lblGName = new System.Windows.Forms.Label();
-            this.txtGSurname = new System.Windows.Forms.TextBox();
-            this.txtGName = new System.Windows.Forms.TextBox();
+            this.txtNoKSurname = new System.Windows.Forms.TextBox();
+            this.txtNoKName = new System.Windows.Forms.TextBox();
             this.groupStudent = new System.Windows.Forms.GroupBox();
             this.cbPart = new System.Windows.Forms.ComboBox();
             this.lblCourse = new System.Windows.Forms.Label();
@@ -234,14 +234,14 @@
             // 
             this.groupParent.Controls.Add(this.panelRelation);
             this.groupParent.Controls.Add(this.lblGEmail);
-            this.groupParent.Controls.Add(this.txtGEmail);
+            this.groupParent.Controls.Add(this.txtNoKEmail);
             this.groupParent.Controls.Add(this.lblGPhone);
-            this.groupParent.Controls.Add(this.txtGPhone);
+            this.groupParent.Controls.Add(this.txtNoKPhone);
             this.groupParent.Controls.Add(this.lblRelation);
             this.groupParent.Controls.Add(this.lblGSurname);
             this.groupParent.Controls.Add(this.lblGName);
-            this.groupParent.Controls.Add(this.txtGSurname);
-            this.groupParent.Controls.Add(this.txtGName);
+            this.groupParent.Controls.Add(this.txtNoKSurname);
+            this.groupParent.Controls.Add(this.txtNoKName);
             this.groupParent.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupParent.ForeColor = System.Drawing.Color.White;
             this.groupParent.Location = new System.Drawing.Point(610, 283);
@@ -298,15 +298,15 @@
             this.lblGEmail.TabIndex = 17;
             this.lblGEmail.Text = "Email";
             // 
-            // txtGEmail
+            // txtNoKEmail
             // 
-            this.txtGEmail.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtGEmail.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGEmail.ForeColor = System.Drawing.Color.Black;
-            this.txtGEmail.Location = new System.Drawing.Point(190, 170);
-            this.txtGEmail.Name = "txtGEmail";
-            this.txtGEmail.Size = new System.Drawing.Size(200, 27);
-            this.txtGEmail.TabIndex = 16;
+            this.txtNoKEmail.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtNoKEmail.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNoKEmail.ForeColor = System.Drawing.Color.Black;
+            this.txtNoKEmail.Location = new System.Drawing.Point(190, 170);
+            this.txtNoKEmail.Name = "txtNoKEmail";
+            this.txtNoKEmail.Size = new System.Drawing.Size(200, 27);
+            this.txtNoKEmail.TabIndex = 16;
             // 
             // lblGPhone
             // 
@@ -319,15 +319,15 @@
             this.lblGPhone.TabIndex = 15;
             this.lblGPhone.Text = "Phone";
             // 
-            // txtGPhone
+            // txtNoKPhone
             // 
-            this.txtGPhone.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtGPhone.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGPhone.ForeColor = System.Drawing.Color.Black;
-            this.txtGPhone.Location = new System.Drawing.Point(190, 135);
-            this.txtGPhone.Name = "txtGPhone";
-            this.txtGPhone.Size = new System.Drawing.Size(200, 27);
-            this.txtGPhone.TabIndex = 14;
+            this.txtNoKPhone.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtNoKPhone.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNoKPhone.ForeColor = System.Drawing.Color.Black;
+            this.txtNoKPhone.Location = new System.Drawing.Point(190, 135);
+            this.txtNoKPhone.Name = "txtNoKPhone";
+            this.txtNoKPhone.Size = new System.Drawing.Size(200, 27);
+            this.txtNoKPhone.TabIndex = 14;
             // 
             // lblRelation
             // 
@@ -362,25 +362,25 @@
             this.lblGName.TabIndex = 11;
             this.lblGName.Text = "First Name";
             // 
-            // txtGSurname
+            // txtNoKSurname
             // 
-            this.txtGSurname.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtGSurname.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGSurname.ForeColor = System.Drawing.Color.Black;
-            this.txtGSurname.Location = new System.Drawing.Point(190, 65);
-            this.txtGSurname.Name = "txtGSurname";
-            this.txtGSurname.Size = new System.Drawing.Size(200, 27);
-            this.txtGSurname.TabIndex = 11;
+            this.txtNoKSurname.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtNoKSurname.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNoKSurname.ForeColor = System.Drawing.Color.Black;
+            this.txtNoKSurname.Location = new System.Drawing.Point(190, 65);
+            this.txtNoKSurname.Name = "txtNoKSurname";
+            this.txtNoKSurname.Size = new System.Drawing.Size(200, 27);
+            this.txtNoKSurname.TabIndex = 11;
             // 
-            // txtGName
+            // txtNoKName
             // 
-            this.txtGName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtGName.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGName.ForeColor = System.Drawing.Color.Black;
-            this.txtGName.Location = new System.Drawing.Point(190, 30);
-            this.txtGName.Name = "txtGName";
-            this.txtGName.Size = new System.Drawing.Size(200, 27);
-            this.txtGName.TabIndex = 11;
+            this.txtNoKName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtNoKName.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNoKName.ForeColor = System.Drawing.Color.Black;
+            this.txtNoKName.Location = new System.Drawing.Point(190, 30);
+            this.txtNoKName.Name = "txtNoKName";
+            this.txtNoKName.Size = new System.Drawing.Size(200, 27);
+            this.txtNoKName.TabIndex = 11;
             // 
             // groupStudent
             // 
@@ -702,14 +702,14 @@
         private System.Windows.Forms.RadioButton radioParent;
         private System.Windows.Forms.RadioButton radioGuardian;
         private System.Windows.Forms.Label lblGEmail;
-        private System.Windows.Forms.TextBox txtGEmail;
+        private System.Windows.Forms.TextBox txtNoKEmail;
         private System.Windows.Forms.Label lblGPhone;
-        private System.Windows.Forms.TextBox txtGPhone;
+        private System.Windows.Forms.TextBox txtNoKPhone;
         private System.Windows.Forms.Label lblRelation;
         private System.Windows.Forms.Label lblGSurname;
         private System.Windows.Forms.Label lblGName;
-        private System.Windows.Forms.TextBox txtGSurname;
-        private System.Windows.Forms.TextBox txtGName;
+        private System.Windows.Forms.TextBox txtNoKSurname;
+        private System.Windows.Forms.TextBox txtNoKName;
         private System.Windows.Forms.GroupBox groupStudent;
         private System.Windows.Forms.ComboBox cbPart;
         private System.Windows.Forms.Label lblCourse;

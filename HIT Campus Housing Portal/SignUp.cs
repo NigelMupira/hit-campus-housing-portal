@@ -48,12 +48,12 @@ namespace HIT_Campus_Housing_Portal
             string email = txtEmail.Text; // Get the email from the input field
             string hitmail = txtHITmail.Text; // Get the hitmail from the input field
             string address = txtAddress.Text; // Get the address from the input field
-            string guardianName = txtGName.Text; // Get the guardian's name from the input field
-            string guardianSurname = txtGSurname.Text; //  Get the guardian's last name from the input field
+            string guardianName = txtNoKName.Text; // Get the guardian's name from the input field
+            string guardianSurname = txtNoKSurname.Text; //  Get the guardian's last name from the input field
             // // Get the relationship - if rbParent is checked then relationship = parent, else relationship = guardian:
             string relationship = radioParent.Checked ? "P" : "G";
-            string guardianPhone = txtGPhone.Text; // Get the guardian's phone number from the input field
-            string guardianEmail = txtGEmail.Text;// Get the guardian's email from the input field
+            string guardianPhone = txtNoKPhone.Text; // Get the guardian's phone number from the input field
+            string guardianEmail = txtNoKEmail.Text;// Get the guardian's email from the input field
             } */
 
             string regNumber = txtRegNum.Text; // Get the registration number from the input field
@@ -80,12 +80,12 @@ namespace HIT_Campus_Housing_Portal
             txtEmail.Clear();
             txtHITmail.Clear();
             txtAddress.Clear();
-            txtGName.Clear();
-            txtGSurname.Clear();
+            txtNoKName.Clear();
+            txtNoKSurname.Clear();
             radioParent.Checked = false;
             radioMale.Checked = false;
-            txtGPhone.Clear();
-            txtGEmail.Clear();
+            txtNoKPhone.Clear();
+            txtNoKEmail.Clear();
         }
 
         private void btnCancel_Click(object sender, EventArgs e)

@@ -49,13 +49,12 @@
             this.label14 = new System.Windows.Forms.Label();
             this.lbl10 = new System.Windows.Forms.Label();
             this.lbl9 = new System.Windows.Forms.Label();
-            this.panel1 = new System.Windows.Forms.Panel();
+            this.panelTop = new System.Windows.Forms.Panel();
             this.lblPath = new System.Windows.Forms.Label();
             this.lblDisplay = new System.Windows.Forms.Label();
             this.lblFullName = new System.Windows.Forms.Label();
             this.lbl1 = new System.Windows.Forms.Label();
             this.btnChange = new System.Windows.Forms.Button();
-            this.picProfile = new System.Windows.Forms.PictureBox();
             this.lbl8 = new System.Windows.Forms.Label();
             this.lbl7 = new System.Windows.Forms.Label();
             this.lbl6 = new System.Windows.Forms.Label();
@@ -63,8 +62,9 @@
             this.lbl4 = new System.Windows.Forms.Label();
             this.lbl3 = new System.Windows.Forms.Label();
             this.lbl2 = new System.Windows.Forms.Label();
+            this.picProfile = new System.Windows.Forms.PictureBox();
             this.groupNoK.SuspendLayout();
-            this.panel1.SuspendLayout();
+            this.panelTop.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picProfile)).BeginInit();
             this.SuspendLayout();
             // 
@@ -292,16 +292,16 @@
             this.lbl9.TabIndex = 43;
             this.lbl9.Text = "HITmail:";
             // 
-            // panel1
+            // panelTop
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.panel1.Controls.Add(this.lblPath);
-            this.panel1.Controls.Add(this.lblDisplay);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(960, 40);
-            this.panel1.TabIndex = 31;
+            this.panelTop.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panelTop.Controls.Add(this.lblPath);
+            this.panelTop.Controls.Add(this.lblDisplay);
+            this.panelTop.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelTop.Location = new System.Drawing.Point(0, 0);
+            this.panelTop.Name = "panelTop";
+            this.panelTop.Size = new System.Drawing.Size(960, 40);
+            this.panelTop.TabIndex = 31;
             // 
             // lblPath
             // 
@@ -355,17 +355,6 @@
             this.btnChange.TabIndex = 34;
             this.btnChange.Text = "Change";
             this.btnChange.UseVisualStyleBackColor = true;
-            // 
-            // picProfile
-            // 
-            this.picProfile.BackColor = System.Drawing.Color.Gainsboro;
-            this.picProfile.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.user3;
-            this.picProfile.Location = new System.Drawing.Point(114, 166);
-            this.picProfile.Name = "picProfile";
-            this.picProfile.Size = new System.Drawing.Size(256, 286);
-            this.picProfile.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picProfile.TabIndex = 33;
-            this.picProfile.TabStop = false;
             // 
             // lbl8
             // 
@@ -444,6 +433,17 @@
             this.lbl2.TabIndex = 36;
             this.lbl2.Text = "Gender:";
             // 
+            // picProfile
+            // 
+            this.picProfile.BackColor = System.Drawing.Color.Gainsboro;
+            this.picProfile.Image = global::HIT_Campus_Housing_Portal.Properties.Resources.user3;
+            this.picProfile.Location = new System.Drawing.Point(114, 166);
+            this.picProfile.Name = "picProfile";
+            this.picProfile.Size = new System.Drawing.Size(256, 286);
+            this.picProfile.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picProfile.TabIndex = 33;
+            this.picProfile.TabStop = false;
+            // 
             // UC_studProf
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -462,7 +462,7 @@
             this.Controls.Add(this.groupNoK);
             this.Controls.Add(this.lbl10);
             this.Controls.Add(this.lbl9);
-            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.panelTop);
             this.Controls.Add(this.lblFullName);
             this.Controls.Add(this.lbl1);
             this.Controls.Add(this.btnChange);
@@ -478,8 +478,8 @@
             this.Size = new System.Drawing.Size(960, 670);
             this.groupNoK.ResumeLayout(false);
             this.groupNoK.PerformLayout();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
+            this.panelTop.ResumeLayout(false);
+            this.panelTop.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picProfile)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -509,7 +509,7 @@
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label lbl10;
         private System.Windows.Forms.Label lbl9;
-        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panelTop;
         private System.Windows.Forms.Label lblPath;
         private System.Windows.Forms.Label lblDisplay;
         private System.Windows.Forms.Label lblFullName;
