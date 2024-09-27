@@ -230,5 +230,8 @@
   <ItemGroup>
     <None Include="Resources\pass_hide.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
