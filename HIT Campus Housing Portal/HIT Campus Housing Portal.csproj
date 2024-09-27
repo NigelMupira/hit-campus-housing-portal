@@ -84,6 +84,42 @@
     <Compile Include="StudentDash.Designer.cs">
       <DependentUpon>StudentDash.cs</DependentUpon>
     </Compile>
+    <Compile Include="UC_Apply.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Apply.Designer.cs">
+      <DependentUpon>UC_Apply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Settings.Designer.cs">
+      <DependentUpon>UC_Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Status.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Status.Designer.cs">
+      <DependentUpon>UC_Status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_studAcc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_studAcc.Designer.cs">
+      <DependentUpon>UC_studAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_studDash.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_studDash.Designer.cs">
+      <DependentUpon>UC_studDash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_studProf.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_studProf.Designer.cs">
+      <DependentUpon>UC_studProf.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AdminDash.resx">
       <DependentUpon>AdminDash.cs</DependentUpon>
     </EmbeddedResource>
