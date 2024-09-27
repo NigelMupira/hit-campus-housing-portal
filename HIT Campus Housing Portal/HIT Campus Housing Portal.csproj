@@ -148,6 +148,24 @@
     <EmbeddedResource Include="StudentDash.resx">
       <DependentUpon>StudentDash.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UC_Apply.resx">
+      <DependentUpon>UC_Apply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Settings.resx">
+      <DependentUpon>UC_Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Status.resx">
+      <DependentUpon>UC_Status.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_studAcc.resx">
+      <DependentUpon>UC_studAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_studDash.resx">
+      <DependentUpon>UC_studDash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_studProf.resx">
+      <DependentUpon>UC_studProf.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

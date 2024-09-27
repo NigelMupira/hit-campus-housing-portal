@@ -28,10 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            this.lblName = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lblName
+            // 
+            this.lblName.AutoSize = true;
+            this.lblName.Font = new System.Drawing.Font("Times New Roman", 47.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName.Location = new System.Drawing.Point(291, 250);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(378, 72);
+            this.lblName.TabIndex = 9;
+            this.lblName.Text = "#ACCOUNT";
+            // 
+            // UC_studAcc
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.Controls.Add(this.lblName);
+            this.Name = "UC_studAcc";
+            this.Size = new System.Drawing.Size(960, 670);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label lblName;
     }
 }
