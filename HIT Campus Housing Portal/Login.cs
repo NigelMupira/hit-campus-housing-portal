@@ -47,7 +47,7 @@ namespace HIT_Campus_Housing_Portal
             {
                 txtPassword.UseSystemPasswordChar = true; // Hide password
                 isVisible = false; // Update flag
-                btnShow.BackgroundImage = Properties.Resources.pass_show; // Change image shown on button
+                btnShow.BackgroundImage = Properties.Resources.appear; // Change image shown on button
             }
         }
 

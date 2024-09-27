@@ -16,5 +16,10 @@ namespace HIT_Campus_Housing_Portal
         {
             InitializeComponent();
         }
+
+        private void btnChange_Click(object sender, EventArgs e)
+        {
+            // Mechanism to change one's profile picture
+        }
     }
 }

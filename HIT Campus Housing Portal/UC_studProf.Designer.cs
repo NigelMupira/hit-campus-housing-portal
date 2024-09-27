@@ -355,6 +355,7 @@
             this.btnChange.TabIndex = 34;
             this.btnChange.Text = "Change";
             this.btnChange.UseVisualStyleBackColor = true;
+            this.btnChange.Click += new System.EventHandler(this.btnChange_Click);
             // 
             // lbl8
             // 

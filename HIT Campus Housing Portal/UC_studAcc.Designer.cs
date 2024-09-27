@@ -139,6 +139,7 @@
             this.btnDelete.TabIndex = 35;
             this.btnDelete.Text = "Delete your account";
             this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // panelHorizRule2
             // 
@@ -171,6 +172,7 @@
             this.btnChange.TabIndex = 34;
             this.btnChange.Text = "Change Password";
             this.btnChange.UseVisualStyleBackColor = false;
+            this.btnChange.Click += new System.EventHandler(this.btnChange_Click);
             // 
             // btnForgot
             // 
@@ -184,6 +186,7 @@
             this.btnForgot.TabIndex = 33;
             this.btnForgot.Text = "Forgot Password";
             this.btnForgot.UseVisualStyleBackColor = true;
+            this.btnForgot.Click += new System.EventHandler(this.btnForgot_Click);
             // 
             // panelHorizRule1
             // 

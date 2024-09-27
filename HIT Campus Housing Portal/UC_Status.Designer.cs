@@ -307,6 +307,7 @@
             this.btnApply.TabIndex = 36;
             this.btnApply.Text = "APPLY NOW!";
             this.btnApply.UseVisualStyleBackColor = false;
+            this.btnApply.Click += new System.EventHandler(this.btnApply_Click);
             // 
             // lblPath
             // 

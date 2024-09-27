@@ -113,6 +113,7 @@
             this.btnStatus.TabIndex = 31;
             this.btnStatus.Text = "STATUS";
             this.btnStatus.UseVisualStyleBackColor = false;
+            this.btnStatus.Click += new System.EventHandler(this.btnStatus_Click);
             // 
             // btnApply
             // 
@@ -127,6 +128,7 @@
             this.btnApply.TabIndex = 30;
             this.btnApply.Text = "APPLY";
             this.btnApply.UseVisualStyleBackColor = false;
+            this.btnApply.Click += new System.EventHandler(this.btnApply_Click);
             // 
             // UC_Apply
             // 

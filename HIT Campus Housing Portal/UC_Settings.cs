@@ -16,5 +16,7 @@ namespace HIT_Campus_Housing_Portal
         {
             InitializeComponent();
         }
+
+        // This form is under construction
     }
 }

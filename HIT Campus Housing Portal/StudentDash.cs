@@ -16,7 +16,7 @@ namespace HIT_Campus_Housing_Portal
         {
             InitializeComponent();
             // Show the student dashboard user control on form load
-            UC_studDash uc = new UC_studDash();
+            UC_studDash uc = new UC_studDash(this);
             addUserControl(uc);
         }
 
@@ -43,21 +43,21 @@ namespace HIT_Campus_Housing_Portal
         private void btnDashboard_Click(object sender, EventArgs e)
         {
             // Show the student dashboard user control
-            UC_studDash uc = new UC_studDash();
+            UC_studDash uc = new UC_studDash(this);
             addUserControl(uc);
         }
 
         private void btnApply_Click(object sender, EventArgs e)
         {
             // Show the apply user control
-            UC_Apply uc = new UC_Apply();
+            UC_Apply uc = new UC_Apply(this);
             addUserControl(uc);
         }
 
         private void btnStatus_Click(object sender, EventArgs e)
         {
             // Show the status user control
-            UC_Status uc = new UC_Status();
+            UC_Status uc = new UC_Status(this);
             addUserControl(uc);
         }
 

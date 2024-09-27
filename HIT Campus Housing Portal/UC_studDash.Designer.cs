@@ -201,6 +201,7 @@
             this.btnApply.TabIndex = 30;
             this.btnApply.Text = "APPLY NOW!";
             this.btnApply.UseVisualStyleBackColor = false;
+            this.btnApply.Click += new System.EventHandler(this.btnApply_Click);
             // 
             // lblStatus
             // 
@@ -212,6 +213,7 @@
             this.lblStatus.Size = new System.Drawing.Size(157, 47);
             this.lblStatus.TabIndex = 29;
             this.lblStatus.Text = "#Status";
+            this.lblStatus.Click += new System.EventHandler(this.lblStatus_Click);
             // 
             // lbl1
             // 

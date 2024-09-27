@@ -16,5 +16,21 @@ namespace HIT_Campus_Housing_Portal
         {
             InitializeComponent();
         }
+
+        private void btnForgot_Click(object sender, EventArgs e)
+        {
+            // Mechanism to reset one's password after forgetting
+            // Add the same for the login form
+        }
+
+        private void btnChange_Click(object sender, EventArgs e)
+        {
+            // Mechanism to change one's password
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            // Mechanism to delete one's user account on this app
+        }
     }
 }
