@@ -1,0 +1,182 @@
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe.config
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.pdb
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.AssemblyReference.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Home.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Login.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Properties.Resources.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.GenerateResource.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.CoreCompileInputs.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.pdb
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.StudentDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.SignUp.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.AdminDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Apply.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Status.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studAcc.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studSett.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Password.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Main.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT Campus Housing Portal\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studProf.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe.config
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.pdb
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.AssemblyReference.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.AdminDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Home.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Login.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Password.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Properties.Resources.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.SignUp.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.StudentDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Apply.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Main.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studProf.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studAcc.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Status.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studSett.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.GenerateResource.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.CoreCompileInputs.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.pdb
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_adminDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Applications.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Students.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.AssemblyReference.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.AdminDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Home.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Login.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_ManageAppli.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Password.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Properties.Resources.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.SignUp.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.StudentDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_adminDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Applications.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Apply.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Main.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Students.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studProf.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studAcc.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Status.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studDash.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studSett.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.GenerateResource.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.CoreCompileInputs.cache
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe.config
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.pdb
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\EntityFramework.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\System.Buffers.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\System.Memory.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\EntityFramework.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\System.Buffers.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\System.Memory.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT Camp.E52969A8.Up2Date
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Demo\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.pdb
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\EntityFramework.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\System.Buffers.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\System.Memory.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\EntityFramework.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\System.Buffers.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\System.Memory.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_ManageAppli.resources
+C:\Users\Nigel\Documents\Visual Studio 2022\Projects\05. ISS1201 Prac Ass 1 - HIT CHP App\HIT Campus Housing Portal\obj\Debug\HIT Camp.E52969A8.Up2Date
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe.config
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.pdb
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\EntityFramework.dll
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Buffers.dll
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Memory.dll
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\EntityFramework.xml
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Buffers.xml
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Memory.xml
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.AssemblyReference.cache
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.AdminDash.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Home.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Login.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_ManageAppli.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Password.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Properties.Resources.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.SignUp.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.StudentDash.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_adminDash.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Applications.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Apply.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Main.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Students.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studProf.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studAcc.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Status.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studDash.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studSett.resources
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.GenerateResource.cache
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.CoreCompileInputs.cache
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Camp.E52969A8.Up2Date
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.pdb
+C:\Users\nigel\Documents\Visual Studio 2022\Projects\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe.config
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe.config
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.pdb
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\EntityFramework.dll
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Buffers.dll
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Memory.dll
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\EntityFramework.xml
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Buffers.xml
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Memory.xml
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.AssemblyReference.cache
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe.config
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.AdminDash.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Home.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Login.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_ManageAppli.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Password.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Properties.Resources.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.SignUp.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.StudentDash.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_adminDash.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Applications.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Apply.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Main.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Students.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studProf.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studAcc.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_Status.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studDash.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.UC_studSett.resources
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.GenerateResource.cache
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.CoreCompileInputs.cache
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Camp.E52969A8.Up2Date
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT CHP App - Copy\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.pdb

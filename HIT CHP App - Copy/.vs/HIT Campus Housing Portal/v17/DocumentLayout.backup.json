@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|c:\\users\\nigel\\documents\\visual studio 2022\\projects\\hit chp app - copy\\hit campus housing portal\\uc_studsett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_studsett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_studsett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_studsett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_studacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_studacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_studacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_studacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_studprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_studprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_studdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_studdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\studentdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\studentdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_studprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_studprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_studdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_studdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\studentdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\studentdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_manageappli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_manageappli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\hit campus housing portal\\uc_admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F90D49-A417-4046-8DDA-5147F40BC260}|HIT Campus Housing Portal\\HIT Campus Housing Portal.csproj|solutionrelative:hit campus housing portal\\uc_admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Home.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\Home.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Home.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:22:09.45Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Home.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\Home.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Home.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\Home.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:37:51.799Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Login.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\Login.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Login.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:40:32.614Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Login.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\Login.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Login.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\Login.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:00:55.622Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\SignUp.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\SignUp.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\SignUp.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:46:11.232Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\SignUp.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\SignUp.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\SignUp.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\SignUp.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAAAFUBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:53:56.177Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Password.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Password.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\Password.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Password.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\Password.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:40:58.433Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Password.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\Password.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Password.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\Password.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:53:30.025Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\StudentDash.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\StudentDash.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\StudentDash.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\StudentDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:57:43.913Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDash.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\StudentDash.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\StudentDash.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\StudentDash.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\StudentDash.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:15:14.6Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_studProf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studProf.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_studProf.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studProf.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_studProf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:55:08.137Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_studProf.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studProf.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_studProf.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studProf.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_studProf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:56:23.217Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_studDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studDash.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_studDash.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studDash.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_studDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:07:46.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_studDash.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studDash.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_studDash.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studDash.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_studDash.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:18:57.542Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_Apply.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Apply.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Apply.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Apply.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Apply.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:05:16.396Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_Apply.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Apply.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Apply.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Apply.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Apply.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:20:20.467Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Main.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Main.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Main.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:57:30.876Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_Main.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Main.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Main.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Main.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Main.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:57:45.017Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_Status.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Status.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Status.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Status.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Status.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:06:36.965Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Status.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Status.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Status.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Status.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Status.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:21:05.979Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_studAcc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studAcc.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_studAcc.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studAcc.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_studAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:26:06.03Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_studAcc.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studAcc.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_studAcc.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studAcc.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_studAcc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:21:43.938Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_studSett.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studSett.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_studSett.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studSett.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_studSett.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:29:19.839Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_studSett.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studSett.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_studSett.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_studSett.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_studSett.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:21:49.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\AdminDash.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\AdminDash.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\AdminDash.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\AdminDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:11:14.594Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminDash.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\AdminDash.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\AdminDash.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\AdminDash.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\AdminDash.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwFYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:49:48.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UC_adminDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_adminDash.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_adminDash.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_adminDash.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_adminDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:24:51.167Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UC_adminDash.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_adminDash.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_adminDash.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_adminDash.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_adminDash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:05:00.938Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Applications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Applications.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Applications.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Applications.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Applications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:30:23.535Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UC_Applications.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Applications.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Applications.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Applications.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Applications.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:05:08.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UC_Students.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Students.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Students.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Students.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Students.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:33:31.831Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UC_Students.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Students.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_Students.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_Students.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_Students.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:04:45.686Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_ManageAppli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_ManageAppli.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\UC_ManageAppli.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\UC_ManageAppli.cs [Design]",
+              "RelativeToolTip": "HIT Campus Housing Portal\\UC_ManageAppli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:18:39.655Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Program.cs",
+              "RelativeDocumentMoniker": "HIT Campus Housing Portal\\Program.cs",
+              "ToolTip": "C:\\Users\\nigel\\Documents\\Visual Studio 2022\\Projects\\HIT CHP App - Copy\\HIT Campus Housing Portal\\Program.cs",
+              "RelativeToolTip": "HIT Campus Housing Portal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:16:34.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

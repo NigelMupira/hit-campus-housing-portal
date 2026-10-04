@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIT Campus Housing Portal", "HIT Campus Housing Portal\HIT Campus Housing Portal.csproj", "{94F90D49-A417-4046-8DDA-5147F40BC260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F90D49-A417-4046-8DDA-5147F40BC260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F90D49-A417-4046-8DDA-5147F40BC260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F90D49-A417-4046-8DDA-5147F40BC260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F90D49-A417-4046-8DDA-5147F40BC260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7214C09F-F81B-4F46-9593-E693DC884C9B}
+	EndGlobalSection
+EndGlobal
