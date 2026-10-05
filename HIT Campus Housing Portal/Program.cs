@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System;
 using System.Windows.Forms;
 
 namespace HIT_Campus_Housing_Portal
@@ -16,7 +13,7 @@ namespace HIT_Campus_Housing_Portal
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new StudentDash());
+            Application.Run(new Home());
         }
     }
 }
