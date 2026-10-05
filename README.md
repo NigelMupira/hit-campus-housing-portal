@@ -110,20 +110,31 @@ HIT CHP/                                # Workspace Root Directory
 ## 🚀 Setup & Installation Instructions
 
 ### 1. Prerequisites
-- **Operating System**: Windows 10/11
-- **IDE**: Visual Studio 2022 (with .NET Desktop Development workload)
-- **Database**: **MySQL Server 8.0** (running locally on port 3306)
+- **Operating System**: Windows 10 / 11
+- **IDE**: Visual Studio 2022 (with *.NET desktop development* workload installed)
+- **Database**: **MySQL Server 8.0** (running locally on port `3306`)
 
-### 2. Database Import
+### 2. Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/HIT-CHP.git
+cd HIT-CHP
+```
+
+### 3. Database Import
 1. Open MySQL Command Line Client, MySQL Workbench, or phpMyAdmin.
-2. Execute the schema script [`hit_chp_db.sql`](file:///C:/Users/nigel/Documents/script_kiddies/VS%202022/HIT%20CHP/hit_chp_db.sql):
-   ```sql
-   SOURCE C:/Users/nigel/Documents/script_kiddies/VS 2022/HIT CHP/hit_chp_db.sql;
-   ```
+2. Create and seed the database using [`hit_chp_db.sql`](hit_chp_db.sql):
+   - **Via MySQL Command Line**:
+     ```sql
+     SOURCE hit_chp_db.sql;
+     ```
+   - **Or via Terminal / Shell**:
+     ```bash
+     mysql -u root -p < hit_chp_db.sql
+     ```
    *This creates the `hit_chp_db` database, table structures, and initial seed data for schools, departments, hostels, rooms, and default admin accounts.*
 
-### 3. Connection String Configuration
-Inspect [`HIT Campus Housing Portal/App.config`](file:///C:/Users/nigel/Documents/script_kiddies/VS%202022/HIT%20CHP/HIT%20Campus%20Housing%20Portal/App.config) and update the connection details if your MySQL root password is set:
+### 4. Connection String Configuration
+Inspect [`HIT Campus Housing Portal/App.config`](HIT%20Campus%20Housing%20Portal/App.config) and update the connection details if your MySQL root password is set:
 
 ```xml
 <connectionStrings>
@@ -133,13 +144,20 @@ Inspect [`HIT Campus Housing Portal/App.config`](file:///C:/Users/nigel/Document
 </connectionStrings>
 ```
 
-### 4. Build & Run
-Open terminal in the repository root and build using MSBuild:
-```powershell
-& "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe" "HIT Campus Housing Portal.sln" /t:Rebuild /p:Configuration=Debug
+### 5. Build & Run
+
+#### Option A: Visual Studio 2022 (Recommended)
+1. Open `HIT Campus Housing Portal.sln` in Visual Studio 2022.
+2. Press **F5** (or click **Start**) to build and run the application.
+
+#### Option B: Developer Command Prompt for Visual Studio
+```cmd
+msbuild "HIT Campus Housing Portal.sln" /t:Rebuild /p:Configuration=Debug
 ```
-Launch the executable from:
-`HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe`
+Run the executable:
+```cmd
+"HIT Campus Housing Portal\bin\Debug\HIT Campus Housing Portal.exe"
+```
 
 ---
 
