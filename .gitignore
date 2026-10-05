@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+*.suo
+nuget.exe
+[Bb]in/
+[Oo]bj/
