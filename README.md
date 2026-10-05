@@ -116,8 +116,8 @@ HIT CHP/                                # Workspace Root Directory
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/HIT-CHP.git
-cd HIT-CHP
+git clone https://github.com/NigelMupira/hit-campus-housing-portal.git
+cd hit-campus-housing-portal
 ```
 
 ### 3. Database Import
