@@ -57,7 +57,6 @@ Originally created as a visual programming assignment (*ISS1201 Practical Assign
 HIT CHP/                                # Workspace Root Directory
 ├── README.md                           # Documentation & Setup Guide
 ├── hit_chp_db.sql                      # MySQL 8.0 DDL Database Schema & Seed Data
-├── SQLQuery1.sql                       # Legacy SQL reference script
 ├── task.txt                            # Original project assignment requirements
 └── HIT Campus Housing Portal/          # Visual Studio C# WinForms Project Root
     ├── App.config                      # Connection strings & runtime configuration
