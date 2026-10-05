@@ -1,20 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 using System.Windows.Forms;
-using System.Xml.Linq;
+using HIT_Campus_Housing_Portal.Models;
+using HIT_Campus_Housing_Portal.Services;
 
 namespace HIT_Campus_Housing_Portal
 {
     public partial class Login : Form
     {
-        private readonly HITCHPAppEntities _db = new HITCHPAppEntities(); // Connect to the database
-        private bool isVisible = false; // Flag to track password visibility state
+        private readonly AuthService _authService = new AuthService();
+        private bool isVisible = false;
 
         public Login()
         {
@@ -24,29 +18,21 @@ namespace HIT_Campus_Housing_Portal
 
         private void txtPassword_TextChanged(object sender, EventArgs e)
         {
-            // Display the show button if the password is not empty
-            if (txtPassword.Text.Length != 0)
-            {
-                btnShow.Visible = true;
-            }
-            else
-            {
-                btnShow.Visible = false;
-            }
+            btnShow.Visible = txtPassword.Text.Length > 0;
         }
 
         private void btnShow_Click(object sender, EventArgs e)
         {
-            if (!isVisible) // If the password is hidden
+            if (!isVisible)
             {
-                txtPassword.UseSystemPasswordChar = false; // Show password
-                isVisible = true; // Update flag
+                txtPassword.UseSystemPasswordChar = false;
+                isVisible = true;
                 btnShow.BackgroundImage = Properties.Resources.hide;
             }
-            else // If the password is visible
+            else
             {
-                txtPassword.UseSystemPasswordChar = true; // Hide password
-                isVisible = false; // Update flag
+                txtPassword.UseSystemPasswordChar = true;
+                isVisible = false;
                 btnShow.BackgroundImage = Properties.Resources.appear1;
             }
         }
@@ -55,60 +41,58 @@ namespace HIT_Campus_Housing_Portal
         {
             try
             {
-                string username = txtUsername.Text;
+                string username = txtUsername.Text.Trim();
                 string password = txtPassword.Text;
 
-                // 
-                var student = _db.LoginDetails.FirstOrDefault(s => s.Username == username && s.Password == password);
-                // 
-                var admin = _db.AdminLogins.FirstOrDefault(a => a.Username == username && a.Password == password);
-
-
-                if (username == "" || password == "")
+                if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
                 {
-                    // If no credentials are entered, display an error message
                     MessageBox.Show("Please enter login details to proceed.", "Login Failed", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                }
-                else if (student != null) // Check if the credentials match a student record
-                {
-                    // Open student dashboard
-                    StudentDash studDash = new StudentDash();
-                    studDash.Show();
-                    this.Hide(); // Hide the login form
                     return;
                 }
-                else if (admin != null) // Check if the credentials match an admin record
+
+                User user = _authService.Login(username, password, out Student student);
+
+                if (user != null)
                 {
-                    // Open admin dashboard
-                    AdminDash adminDash = new AdminDash();
-                    adminDash.Show();
-                    this.Hide(); // Hide the login form
-                    return;
+                    UserSession.CurrentUser = user;
+                    UserSession.CurrentStudent = student;
+
+                    if (user.Role == "Student")
+                    {
+                        StudentDash studDash = new StudentDash();
+                        studDash.Show();
+                        this.Hide();
+                    }
+                    else if (user.Role == "Admin")
+                    {
+                        AdminDash adminDash = new AdminDash();
+                        adminDash.Show();
+                        this.Hide();
+                    }
                 }
                 else
                 {
-                    // If credentials don't match any existing records, display an error message
                     MessageBox.Show("Invalid username or password. Please try again.", "Login Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Database or system error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void btnCreate_Click(object sender, EventArgs e)
         {
             SignUp register = new SignUp();
-            register.Show(); // Show the sign up form
-            this.Hide(); // Hide the current form
+            register.Show();
+            this.Hide();
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
             Home home = new Home();
-            home.Show(); // Show the home form
-            this.Hide(); // Hide the current form
+            home.Show();
+            this.Hide();
         }
     }
 }

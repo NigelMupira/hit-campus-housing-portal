@@ -196,7 +196,6 @@ C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Porta
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.csproj.AssemblyReference.cache
-C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe.config
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.AdminDash.resources
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Home.resources
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\obj\Debug\HIT_Campus_Housing_Portal.Login.resources
@@ -220,3 +219,5 @@ C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Porta
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\obj\Debug\HIT Camp.E52969A8.Up2Date
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.exe
 C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\obj\Debug\HIT Campus Housing Portal.pdb
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\bin\Debug\MySql.Data.dll
+C:\Users\nigel\Documents\script_kiddies\VS 2022\HIT CHP\HIT Campus Housing Portal\bin\Debug\MySql.Data.xml
